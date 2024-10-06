@@ -1,0 +1,85 @@
+body 
+{
+font-family: Roboto, sans-serif;
+color: #434455;
+background-color: #ffffff;
+
+}
+h1,h2,h3 {
+font-family: Raleway, sans-serif;
+}
+    a {
+        text-decoration: none;
+}
+    ul, ol {
+        list-style-type: none;
+}
+.link {
+color: #2E2F42;
+font-size: 16px;
+}
+.my-section {
+    background-color: #2E2F42;
+}   
+
+h1 {
+color: #FFFFFF;
+font-size: 56px;
+text-align: center;
+}
+.press {
+text-align: center;
+font-size: 16px;
+color: #FFFFFF;
+background-color: #4D5AE5;
+padding: 32px;
+border-radius: 10px;
+}
+h2 {
+color: #2E2F42;
+font-size: 36px;
+text-align: center;
+}
+h3 {
+color: #2E2F42;
+    font-size: 20px;
+    text-align: left;
+}
+.p {
+    color: #434455;
+        font-size: 16px;
+        text-align: left;
+    }
+    .our-team {
+    text-align: center;
+    background-color:  #F4F4FD;
+    }
+    .ok {
+    color: #F4F4FD;
+    text-align: left;
+    background-color: #2E2F42;
+    }
+    .bleu {
+    color: #4D5AE5;
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-size: 18px;
+    }
+        .navi-bleu {
+        color: #434455;
+            text-transform: uppercase;
+            font-family: Raleway;
+            font-size: 18px;
+        }
+        .white {
+        color: #F4F4FD;
+            text-transform: uppercase;
+            font-family: Raleway;
+            font-size: 18px;
+        }
+
+
+
+   
+
+
