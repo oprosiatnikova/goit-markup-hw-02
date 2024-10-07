@@ -13,10 +13,21 @@ font-family: Raleway, sans-serif;
 }
     ul, ol {
         list-style-type: none;
+        font-style: normal;
 }
+
 .link {
 color: #2E2F42;
 font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em
+}
+.link:hover {
+    color: #404bbf;
+}
+.link:clicked {
+    color: #404bbf
 }
 .my-section {
     background-color: #2E2F42;
@@ -62,20 +73,29 @@ color: #2E2F42;
     .blue {
     color: #4D5AE5;
     text-transform: uppercase;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     }
         .navi-blue {
-        color: #434455;
+        color: #2e2f42;
             text-transform: uppercase;
-            font-family: Raleway;
+            font-family: "Raleway", sans-serif;
             font-size: 18px;
+            font-weight: 700;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
         }
         .white {
         color: #F4F4FD;
             text-transform: uppercase;
-            font-family: Raleway;
+            font-family: "Raleway", sans-serif;
             font-size: 18px;
+            font-weight: 700;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
         }
 
 
