@@ -33,7 +33,7 @@ letter-spacing: 0.02em
     background-color: #2E2F42;
 }   
 
-h1 {
+.start {
 color: #FFFFFF;
 font-size: 56px;
 text-align: center;
@@ -46,29 +46,39 @@ background-color: #4D5AE5;
 padding: 32px;
 border-radius: 10px;
 }
-h2 {
+.chapter {
 color: #2E2F42;
 font-size: 36px;
 text-align: center;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+font-weight: 500;
 }
-h3 {
+.subtitle {
 color: #2E2F42;
     font-size: 20px;
     text-align: left;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
-.p {
+.content {
     color: #434455;
         font-size: 16px;
         text-align: left;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
     }
     .our-team {
     text-align: center;
     background-color:  #F4F4FD;
     }
-    .ok {
+    .oko {
     color: #F4F4FD;
     text-align: left;
     background-color: #2E2F42;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     }
     .blue {
     color: #4D5AE5;
