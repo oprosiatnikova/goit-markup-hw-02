@@ -54,6 +54,10 @@ cursor: pointer;
 .press:hover {
     background-color: #404BBF;
 }
+.press:focus {
+background-color: #404BBF;
+
+}
 
 .chapter {
 color: #2E2F42;
@@ -83,7 +87,7 @@ color: #2E2F42;
     text-align: center;
     background-color: #F4F4FD;
     }
-    .add {
+    .app {
     background-color: #FFFFFF;
     }
     .oko {
