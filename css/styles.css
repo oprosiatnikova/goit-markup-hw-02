@@ -100,7 +100,7 @@ color: #2E2F42;
     letter-spacing: 0.02em;
     line-height: 1.5;
     }
-    .blue {
+    .web {
     color: #4D5AE5;
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
@@ -109,7 +109,7 @@ color: #2E2F42;
     line-height: 1.17;
     letter-spacing: 0.03em;
     }
-        .navi-blue {
+        .studio {
         color: #2e2f42;
             text-transform: uppercase;
             font-family: "Raleway", sans-serif;
@@ -118,7 +118,7 @@ color: #2E2F42;
             line-height: 1.17;
             letter-spacing: 0.03em;
         }
-        .white {
+        .studio-bright {
         color: #F4F4FD;
             text-transform: uppercase;
             font-family: "Raleway", sans-serif;
