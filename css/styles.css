@@ -27,11 +27,18 @@ font-style: normal;
     color: #404bbf;
 }
 .link:focus {
-    color: #404bbf; 
+color: #404bbf; 
 }
 .contacts {
 font-style: normal;
 color: #434455;
+.write {
+color: #434455;
+font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
    }
 .my-section {
     background-color: #2E2F42;
@@ -89,6 +96,9 @@ color: #2E2F42;
     .our-team {
     text-align: center;
     background-color: #F4F4FD;
+    }
+    .list {
+        background-color: #FFFFFF;
     }
     .app {
     background-color: #FFFFFF;
