@@ -49,6 +49,12 @@ text-transform: uppercase;
 font-style: normal;
 color: #434455;
 }
+.address-link:hover {
+color: #404bbf;
+}
+.address-link:focus {
+color: #404bbf;
+}
 .my-section {
     background-color: #2E2F42;
 }   
